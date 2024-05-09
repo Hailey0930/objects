@@ -1,0 +1,12 @@
+{
+  "name": "objects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {
+    "ts-node": "^10.9.2",
+    "tsc-watch": "^6.2.0",
+    "typescript": "^5.4.5"
+  }
+}
